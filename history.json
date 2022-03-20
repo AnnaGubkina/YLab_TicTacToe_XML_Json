@@ -1,0 +1,59 @@
+{
+  "Gameplay" : {
+    "Player" : [ {
+      "id" : "1",
+      "name" : "Anna",
+      "symbol" : "X"
+    }, {
+      "id" : "2",
+      "name" : "PabloEscobar",
+      "symbol" : "0"
+    } ],
+    "Game" : {
+      "Step" : [ {
+        "num" : "1",
+        "playerId" : "1",
+        "text" : "11"
+      }, {
+        "num" : "2",
+        "playerId" : "2",
+        "text" : "12"
+      }, {
+        "num" : "3",
+        "playerId" : "1",
+        "text" : "13"
+      }, {
+        "num" : "4",
+        "playerId" : "2",
+        "text" : "22"
+      }, {
+        "num" : "5",
+        "playerId" : "1",
+        "text" : "32"
+      }, {
+        "num" : "6",
+        "playerId" : "2",
+        "text" : "21"
+      }, {
+        "num" : "7",
+        "playerId" : "1",
+        "text" : "31"
+      }, {
+        "num" : "8",
+        "playerId" : "2",
+        "text" : "23"
+      }, {
+        "num" : "9",
+        "playerId" : "1",
+        "text" : "-"
+      } ]
+    },
+    "GameResult" : {
+      "Player" : {
+        "id" : "2",
+        "name" : "PabloEscobar",
+        "symbol" : "0"
+      }
+    }
+  }
+}
